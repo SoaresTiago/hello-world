@@ -1,7 +1,16 @@
 p {
+color:gray;
 align:left;
 width:250px;
 }
-html{
-	background-color:gray;
+
+h1{
+size:50px;
+color:red;
+align:center;
 }
+
+html{
+	background-color:dark-gray;
+}
+
